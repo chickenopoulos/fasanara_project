@@ -1,0 +1,6 @@
+vectorbt
+numpy
+pandas
+matplotlib
+empyrical-reloaded
+pykalman
